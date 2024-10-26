@@ -43,6 +43,11 @@ Complete list of transformers developed for healthcare
 
 ## Epigentics
 - Epigenetics is all you need: A Transformer to decode chromatin structural compartments from the epigenome
+
+## Gene Representations
+- LitGene: a transformer-based model that uses contrastive learning to integrate textual information into gene representations
+- https://github.com/vinash85/LitGene
+- https://github.com/vinash85/GENELLM_WEBAPP
 - 
 
 ## Molecular engineering
