@@ -17,7 +17,10 @@ Complete list of transformers developed for healthcare
 
 ## Neuromorphicity
 - Subject-Agnostic Transformer-Based Neural Speech Decoding from Surface and Depth Electrode Signals
-- 
+
+## Neural Imaging
+- Speech Synthesis from Electrocorticogram During Imagined Speech Using a Transformer-Based Decoder and Pretrained Vocoder
+    - https://github.com/kan-bayashi/ParallelWaveGAN
 
 ## Myocardium
 - Refined Myocardium Segmentation from CT Using a Hybrid-Fusion Transformer
