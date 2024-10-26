@@ -111,6 +111,8 @@ Complete list of transformers developed for healthcare
 ## Single Cell sequencing
 - Transformer-based modeling of Clonal Selection and Expression Dynamics (TraCSED) reveals resistance signatures in breast cancer
     - https://github.com/Genentech/TraCSED/
+- scGFT: single-cell RNA-seq data augmentation using generative Fourier transformer
+    - https://github.com/Sanofi-Public/PMCB-scGFT
 
 
 --------------------------------
