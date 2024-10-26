@@ -62,10 +62,11 @@ Complete list of transformers developed for healthcare
   - https://github.com/liqingwen98/GCRTcall
 
 ## cell
--SwinCell: a transformer-based framework for dense 3D cellular segmentation
+- SwinCell: a transformer-based framework for dense 3D cellular segmentation
   - https://cbia.fi.muni.cz/datasets/
   - https://github.com/xzhang0123/SwinCell
   - https://github.com/orgs/AllenCell/repositories
+    
 - Cell-TRACTR: A transformer-based model for end-to-end segmentation and tracking of cells
   - https://gitlab.com/dunloplab/Cell-HOTA
   - https://gitlab.com/dunloplab/Cell-TRACTR
