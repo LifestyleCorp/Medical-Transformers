@@ -65,4 +65,6 @@ Complete list of transformers developed for healthcare
   - https://gitlab.com/dunloplab/Cell-HOTA
   - https://gitlab.com/dunloplab/Cell-TRACTR
 
-- 
+## Protein
+- Protein Set Transformer: A protein-based genome language model to power high diversity viromics
+    - https://github.com/AnantharamanLab/protein_set_transformer
