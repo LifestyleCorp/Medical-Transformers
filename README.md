@@ -8,6 +8,9 @@ Complete list of transformers developed for healthcare
 
 ## Neuromorphicity
 - Biologically Realistic Computational Primitives of Neocortex Implemented on Neuromorphic Hardware Improve Vision Transformer Performance
+
+## Neuromorphicity
+- Subject-Agnostic Transformer-Based Neural Speech Decoding from Surface and Depth Electrode Signals
 - 
 
 ## Myocardium
@@ -32,6 +35,10 @@ Complete list of transformers developed for healthcare
 - DeepVul: A Multi-Task Transformer Model for Joint Prediction of Gene Essentiality and Drug Response
 - https://github.com/alaaj27/DeepVul
 
+## Epigentics
+- Epigenetics is all you need: A Transformer to decode chromatin structural compartments from the epigenome
+- 
+
 ## Molecular engineering
 - Transformer Graph Variational Autoencoder for Generative Molecular Design
 - https://github.com/nnhoangtrieu/TGVAE
@@ -43,4 +50,9 @@ Complete list of transformers developed for healthcare
 - GCRTcall: a Transformer based basecaller for nanopore RNA sequencing enhanced by gated convolution and relative position embedding via joint loss training
 - https://github.com/liqingwen98/GCRTcall
 
-## 
+## cell
+- Cell-TRACTR: A transformer-based model for end-to-end segmentation and tracking of cells
+- https://gitlab.com/dunloplab/Cell-HOTA
+- https://gitlab.com/dunloplab/Cell-TRACTR
+
+- 
