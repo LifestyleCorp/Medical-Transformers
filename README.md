@@ -132,4 +132,13 @@ Complete list of transformers developed for healthcare
     - https://github.com/AspirinCode/AlphaPPImd
     - https://github.com/bjornwallner/DockQ
 
-- 
+---------------
+
+# HistoPathology
+
+- Quantifying Interpretation Reproducibility in Vision Transformer Models with TAVAC
+    - https://github.com/LabShengLi/TAVAC
+    - https://huggingface.co/datasets
+    - https://data.mendeley.com/datasets/29ntw7sh4r/5
+    - https://github.com/almaan/her2st
+    - 
