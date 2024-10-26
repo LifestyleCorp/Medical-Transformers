@@ -97,7 +97,11 @@ Complete list of transformers developed for healthcare
 - LitGene: a transformer-based model that uses contrastive learning to integrate textual information into gene representations
 - https://github.com/vinash85/LitGene
 - https://github.com/vinash85/GENELLM_WEBAPP
-- 
+
+## Micro RNA 
+- Advancing microRNA Target Site Prediction with Transformer and Base-Pairing Patterns
+    - https://github.com/biyueeee/Mimosa
+    - https://monash.bioweb.cloud.edu.au/Mimosa/
 
 ## Molecular engineering
 - Transformer Graph Variational Autoencoder for Generative Molecular Design
@@ -123,3 +127,9 @@ Complete list of transformers developed for healthcare
 ## Protein
 - Protein Set Transformer: A protein-based genome language model to power high diversity viromics
     - https://github.com/AnantharamanLab/protein_set_transformer
+ 
+- Exploring the conformational ensembles of protein-protein complex with transformer-based generative model
+    - https://github.com/AspirinCode/AlphaPPImd
+    - https://github.com/bjornwallner/DockQ
+
+- 
