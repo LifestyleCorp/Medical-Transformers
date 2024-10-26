@@ -25,6 +25,8 @@ Complete list of transformers developed for healthcare
 - Speech Synthesis from Electrocorticogram During Imagined Speech Using a Transformer-Based Decoder and Pretrained Vocoder
     - https://github.com/kan-bayashi/ParallelWaveGAN
 - Subject-Agnostic Transformer-Based Neural Speech Decoding from Surface and Depth Electrode Signals
+- Predicting task-related brain activity from resting-state brain dynamics with fMRI Transformer
+- 
 
 -------
 
@@ -102,6 +104,13 @@ Complete list of transformers developed for healthcare
 - Advancing microRNA Target Site Prediction with Transformer and Base-Pairing Patterns
     - https://github.com/biyueeee/Mimosa
     - https://monash.bioweb.cloud.edu.au/Mimosa/
+ 
+## Mass Spectrometry
+- A transformer model for de novo sequencing of data-independent acquisition mass spectrometry data
+
+## Single Cell sequencing
+- Transformer-based modeling of Clonal Selection and Expression Dynamics (TraCSED) reveals resistance signatures in breast cancer
+    - https://github.com/Genentech/TraCSED/
 
 ## Molecular engineering
 - Transformer Graph Variational Autoencoder for Generative Molecular Design
