@@ -8,7 +8,10 @@ Complete list of transformers developed for healthcare
     - https://insilico.com/repository/precious3gpt
     - https://huggingface.co/insilicomedicine/precious3-gpt-multi-modal
     - https://pharma.ai/precious
-- 
+
+--------
+
+# Neurology
 
 ##  Amygdala
 - AmygdalaGo-BOLT3D: A boundary learning transformer for tracing human amygdala
@@ -23,9 +26,21 @@ Complete list of transformers developed for healthcare
     - https://github.com/kan-bayashi/ParallelWaveGAN
 - Subject-Agnostic Transformer-Based Neural Speech Decoding from Surface and Depth Electrode Signals
 
-- 
+-------
+
+# Cardiology
+ 
 ## Myocardium
 - Refined Myocardium Segmentation from CT Using a Hybrid-Fusion Transformer
+
+-------
+
+# GENOMICS
+
+## Scaling law of genomics
+- https://github.com/wds-seu/Scaling-Laws-of-Genomic
+- https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.26/
+- http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/1000G_2504_high_coverage/working/20201028_3202_phased/
 
 ## Genotype imputation
 - Split-Transformer Impute (STI): A Transformer Framework for Genotype Imputation
@@ -53,7 +68,12 @@ Complete list of transformers developed for healthcare
     - https://github.com/CompEpigen/methylseq_simulation
     - https://github.com/dpryan79/MethylDackel
 
-- 
+## DNA Sequences
+- DeepGene: An Efficient Foundation Model for Genomics based on Pan-genome Graph Transformer
+    - https://github.com/wds-seu/DeepGene
+    - https://drive.google.com/drive/folders/1gb2IqO3NdSMbydKMLGZBFAbsbKhgm0i8
+    - https://drive.google.com/drive/folders/1DLXtYGDVyxxBN3U5mMzxf-QMe1-Ik0dx
+    - https://drive.google.com/file/d/1x7vSy7BTISx3K0su6FhdHLTmv1LPgH1B/view
 
 ## joint prediction in genomics
 - DeepVul: A Multi-Task Transformer Model for Joint Prediction of Gene Essentiality and Drug Response
