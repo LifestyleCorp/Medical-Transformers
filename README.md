@@ -112,10 +112,23 @@ Complete list of transformers developed for healthcare
 - Transformer-based modeling of Clonal Selection and Expression Dynamics (TraCSED) reveals resistance signatures in breast cancer
     - https://github.com/Genentech/TraCSED/
 
+
+--------------------------------
+
+# Molecule
+
+## Molecular BioPhysics
+- Predicting Future Kinetic States of Physicochemical Systems Using Generative Pre-trained Transformer
+    - https://github.com/palash892/gpt_state_generation
+    - https://github.com/palash892/Hi-C_ML_structure-dynamics
+
+
 ## Molecular engineering
 - Transformer Graph Variational Autoencoder for Generative Molecular Design
   - https://github.com/nnhoangtrieu/TGVAE
   - https://github.com/nnhoangtrieu/mol2coordinate
+
+-----------------
 
 ## Computational and Structural Biotech
 - BaseNet: A Transformer-Based Toolkit for Nanopore Sequencing Signal Decoding
@@ -123,7 +136,9 @@ Complete list of transformers developed for healthcare
 - GCRTcall: a Transformer based basecaller for nanopore RNA sequencing enhanced by gated convolution and relative position embedding via joint loss training
   - https://github.com/liqingwen98/GCRTcall
 
-## cell
+---------------
+
+# cell
 - SwinCell: a transformer-based framework for dense 3D cellular segmentation
   - https://cbia.fi.muni.cz/datasets/
   - https://github.com/xzhang0123/SwinCell
@@ -133,7 +148,9 @@ Complete list of transformers developed for healthcare
   - https://gitlab.com/dunloplab/Cell-HOTA
   - https://gitlab.com/dunloplab/Cell-TRACTR
 
-## Protein
+-----------
+
+# Protein
 - Protein Set Transformer: A protein-based genome language model to power high diversity viromics
     - https://github.com/AnantharamanLab/protein_set_transformer
  
