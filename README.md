@@ -1,5 +1,7 @@
 # Medical-Transformers
 Complete list of transformers developed for healthcare
+- the research papers are in biorxiv , arxiv or medrxiv
+- Just copy paste the titles and search for it there
 
 ## Aging
 - Precious3GPT: Multimodal Multi-Species Multi-Omics Multi-Tissue Transformer for Aging Research and Drug Discovery
