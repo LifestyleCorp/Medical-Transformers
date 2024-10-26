@@ -59,6 +59,17 @@ Complete list of transformers developed for healthcare
 
 ## Epigentics
 - Epigenetics is all you need: A Transformer to decode chromatin structural compartments from the epigenome
+- EpiGePT: a Pretrained Transformer model for epigenomics
+    - https://egg2.wustl.edu/roadmap/web_portal/chr_state_learning.html
+    - http://www.grndb.com/
+    - https://www.grnpedia.org/trrust/
+    - https://health.tsinghua.edu.cn/hichipdb/
+    - https://health.tsinghua.edu.cn/silencerdb/
+    - https://github.com/ZjGaothu/OpenAnnotatePy (http://166.111.5.198:61666/openness/anno/)
+    - https://github.com/ZjGaothu/OpenAnnotateR
+    - https://github.com/ZjGaothu/scEpiTools (https://health.tsinghua.edu.cn/scepitools/)
+    - https://github.com/ZjGaothu/scEpiEnsemble (https://health.tsinghua.edu.cn/scepitools/analysis_page_scepiensemble.php)
+    - https://www.dropbox.com/scl/fi/rclvqefa1s6c05jttsw8s/data_tutorial_buenrostro.tar.gz?rlkey=yf94vdxw8h9rcrxp39rdqhfsh&e=1&dl=0
 
 ## Gene Representations
 - LitGene: a transformer-based model that uses contrastive learning to integrate textual information into gene representations
