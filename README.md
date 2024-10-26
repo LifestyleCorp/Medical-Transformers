@@ -38,6 +38,19 @@ Complete list of transformers developed for healthcare
 - The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics
   - https://huggingface.co/InstaDeepAI
   - https://github.com/instadeepai/nucleotide-transformer
+
+## DNA Methylation
+- MethylBERT: A Transformer-based model for read-level DNA methylation pattern identification and tumour deconvolution
+    - https://pypi.org/project/methylbert/
+    - https://github.com/CompEpigen/methylbert
+    - https://github.com/CompEpigen/scMethrix
+    - https://github.com/CompEpigen/figeno
+    - https://github.com/CompEpigen/wgbs_atlas_simulation
+    - https://github.com/CompEpigen/methrix
+    - https://github.com/CompEpigen/CancerEpigenomicsTutorial
+    - https://github.com/CompEpigen/methylseq_simulation
+    - https://github.com/dpryan79/MethylDackel
+
 - 
 
 ## joint prediction in genomics
