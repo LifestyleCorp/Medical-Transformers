@@ -10,6 +10,18 @@ Complete list of transformers developed for healthcare
     - https://pharma.ai/precious
 
 --------
+# Electronic Health Records
+
+- Developing a natural language processing system using transformer-based models for adverse drug event detection in electronic health records
+- 
+---------
+
+# Radiology
+
+- Systematic Review of Hybrid Vision Transformer Architectures for Radiological Image Analysis
+- MR Image Harmonization with Transformer
+- 
+------------
 
 # Neurology
 
@@ -35,6 +47,9 @@ Complete list of transformers developed for healthcare
 ## Myocardium
 - Refined Myocardium Segmentation from CT Using a Hybrid-Fusion Transformer
 
+## ECG
+- Detection of multiple cardiac abnormalities using Convolution, Positional Encoder and Transformer on 12-lead ECG recordings
+- 
 -------
 
 # GENOMICS
@@ -170,3 +185,9 @@ Complete list of transformers developed for healthcare
     - https://data.mendeley.com/datasets/29ntw7sh4r/5
     - https://github.com/almaan/her2st
     - 
+-------------------
+
+# Nutrition
+
+- Examining the Accuracy and Reproducibility of Responses to Nutrition Questions Related to Inflammatory Bowel Disease by Generative Pre-trained Transformer-4 (GPT-4)
+- 
