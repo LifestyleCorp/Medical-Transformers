@@ -40,6 +40,10 @@ Complete list of transformers developed for healthcare
 - Predicting task-related brain activity from resting-state brain dynamics with fMRI Transformer
 - 
 
+## Neural Diagnosis
+- BrainGT: Multifunctional Brain Graph Transformer for Brain Disorder Diagnosis
+- 
+
 -------
 
 # Cardiology
@@ -49,7 +53,12 @@ Complete list of transformers developed for healthcare
 
 ## ECG
 - Detection of multiple cardiac abnormalities using Convolution, Positional Encoder and Transformer on 12-lead ECG recordings
-- 
+
+
+## CVD Risk
+- Refined selection of individuals for preventive cardiovascular disease treatment with a Transformer-based risk model
+
+
 -------
 
 # GENOMICS
@@ -190,4 +199,11 @@ Complete list of transformers developed for healthcare
 # Nutrition
 
 - Examining the Accuracy and Reproducibility of Responses to Nutrition Questions Related to Inflammatory Bowel Disease by Generative Pre-trained Transformer-4 (GPT-4)
+- 
+
+-------------------
+
+# Sleep Medicine
+
+- A foundational transformer leveraging full night, multichannel sleep study data accurately classifies sleep stages
 - 
