@@ -3,7 +3,13 @@ Complete list of transformers developed for healthcare
 - the research papers are in biorxiv , arxiv or medrxiv
 - Just copy paste the titles and search for it there
 
-## Aging
+------------------
+
+# ALL CAUSE MORTALITY PREDICTION
+- Zero Shot Health Trajectory Prediction Using Transformer
+
+------------------
+# Aging
 - Precious3GPT: Multimodal Multi-Species Multi-Omics Multi-Tissue Transformer for Aging Research and Drug Discovery
     - https://insilico.com/repository/precious3gpt
     - https://huggingface.co/insilicomedicine/precious3-gpt-multi-modal
@@ -42,6 +48,7 @@ Complete list of transformers developed for healthcare
 
 ## Neural Diagnosis
 - BrainGT: Multifunctional Brain Graph Transformer for Brain Disorder Diagnosis
+- Dynamic Graph Transformer for Brain Disorder Diagnosis
 - 
 
 -------
