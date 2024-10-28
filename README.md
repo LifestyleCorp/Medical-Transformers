@@ -19,8 +19,19 @@ Complete list of transformers developed for healthcare
 # Electronic Health Records
 
 - Developing a natural language processing system using transformer-based models for adverse drug event detection in electronic health records
+- Transformer-based deep learning model for the diagnosis of suspected lung cancer in primary care based on electronic health record data
+- https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch
+- https://digital.nhs.uk/data-and-information/publications/statistical/cancer-registration-statistics/england-2020/cancer-incidence-by-stage
 - 
 ---------
+
+# Clinical Trials
+
+- Retrieval Augmented Generation Enabled Generative Pre-Trained Transformer 4 (GPT-4) Performance for Clinical Trial Screening
+
+
+-----------
+
 
 # Radiology
 
@@ -44,12 +55,19 @@ Complete list of transformers developed for healthcare
     - https://github.com/kan-bayashi/ParallelWaveGAN
 - Subject-Agnostic Transformer-Based Neural Speech Decoding from Surface and Depth Electrode Signals
 - Predicting task-related brain activity from resting-state brain dynamics with fMRI Transformer
-- 
+- A Siamese U-Transformer for change detection on MRI brain for multiple sclerosis, a model development and external validation study
+    - https://github.com/FinnBehrendt/Unsupervised-Anomaly-Detection-in-Brain-MRI
+    - https://github.com/FinnBehrendt/Mahalanobis-Unsupervised-Anomaly-Detection
+    - https://github.com/FinnBehrendt/Ensembled-SSIM-for-Unsupervised-Anomaly-Detection
+    - https://github.com/FinnBehrendt/Supervised-Anomaly-Detection-with-Diffusion-Models
+    - https://github.com/FinnBehrendt/patched-Diffusion-Models-UAD
+    - https://github.com/FinnBehrendt/Conditioned-Diffusion-Models-UAD
 
 ## Neural Diagnosis
 - BrainGT: Multifunctional Brain Graph Transformer for Brain Disorder Diagnosis
 - Dynamic Graph Transformer for Brain Disorder Diagnosis
-- 
+    - https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal
+    - 
 
 -------
 
@@ -60,7 +78,7 @@ Complete list of transformers developed for healthcare
 
 ## ECG
 - Detection of multiple cardiac abnormalities using Convolution, Positional Encoder and Transformer on 12-lead ECG recordings
-
+- Self-supervised deep representation learning of a foundation transformer model enabling efficient ECG-based assessment of cardiac and coronary function with limited labels
 
 ## CVD Risk
 - Refined selection of individuals for preventive cardiovascular disease treatment with a Transformer-based risk model
@@ -68,7 +86,18 @@ Complete list of transformers developed for healthcare
 
 -------
 
+# Gastroenterology
+- LOMIA-T: A Transformer-based LOngitudinal Medical Image Analysis framework for predicting treatment response of esophageal cancer
+- 
+
+---------
 # GENOMICS
+
+## Genetic Diagnosis
+- Genetic Transformer: An Innovative Large Language Model Driven Approach for Rapid and Accurate Identification of Causative Variants in Rare Genetic Diseases
+    - https://github.com/shiquan/bcfanno
+    - https://github.com/meta-llama/llama3/blob/main/MODEL_CARD.md
+    - https://ftp.ncbi.nih.gov/repository/OMIM/ARCHIVE/
 
 ## Scaling law of genomics
 - https://github.com/wds-seu/Scaling-Laws-of-Genomic
