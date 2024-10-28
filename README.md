@@ -20,9 +20,21 @@ Complete list of transformers developed for healthcare
 
 - Developing a natural language processing system using transformer-based models for adverse drug event detection in electronic health records
 - Transformer-based deep learning model for the diagnosis of suspected lung cancer in primary care based on electronic health record data
-- https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch
-- https://digital.nhs.uk/data-and-information/publications/statistical/cancer-registration-statistics/england-2020/cancer-incidence-by-stage
-- 
+    - https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch
+    - https://digital.nhs.uk/data-and-information/publications/statistical/cancer-registration-statistics/england-2020/cancer-incidence-by-stage
+- Forecasting COVID-19 New Cases Using Transformer Deep Learning Model
+    - https://github.com/Saupatil07/Covid-Forecasting-using-deep-learning
+    - https://github.com/yuqinie98/PatchTST
+    - https://github.com/cure-lab/LTSF-Linear
+    - https://github.com/zhouhaoyi/Informer2020
+    - https://github.com/thuml/Autoformer
+    - https://github.com/MAZiqing/FEDformer
+    - https://github.com/alipay/Pyraformer
+    - https://github.com/ts-kim/RevIN
+    - https://github.com/timeseriesAI/tsai
+- CovTransformer: A transformer model for SARS-CoV-2 lineage frequency forecasting
+- Predicting Autism Spectrum Disorder: Transformer-Based Deep Learning Ensemble Framework Using Health Administrative & Birth Registry Data
+
 ---------
 
 # Clinical Trials
@@ -37,7 +49,9 @@ Complete list of transformers developed for healthcare
 
 - Systematic Review of Hybrid Vision Transformer Architectures for Radiological Image Analysis
 - MR Image Harmonization with Transformer
-- 
+- High Resolution Multi-delay Arterial Spin Labeling with Transformer based Denoising for Pediatric Perfusion MRI
+-  
+-    
 ------------
 
 # Neurology
