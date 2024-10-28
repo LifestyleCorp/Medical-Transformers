@@ -34,12 +34,18 @@ Complete list of transformers developed for healthcare
     - https://github.com/timeseriesAI/tsai
 - CovTransformer: A transformer model for SARS-CoV-2 lineage frequency forecasting
 - Predicting Autism Spectrum Disorder: Transformer-Based Deep Learning Ensemble Framework Using Health Administrative & Birth Registry Data
+- A Transformer-Based Model Trained on Large Scale Claims Data for Prediction of Severe COVID-19 Disease Progression
+- A Novel Sentence Transformer-based Natural Language Processing Approach for Schema Mapping of Electronic Health Records to the OMOP Common Data Model
+- https://ohdsi.github.io/Usagi/
+- A deep learning transformer model predicts high rates of undiagnosed rare disease in large electronic health systems
+- Large-scale identification of social and behavioral determinants of health from clinical notes: Comparison of Latent Semantic Indexing and Generative Pretrained Transformer (GPT) models
 
 ---------
 
 # Clinical Trials
 
 - Retrieval Augmented Generation Enabled Generative Pre-Trained Transformer 4 (GPT-4) Performance for Clinical Trial Screening
+- Hybrid Value-Aware Transformer Architecture for Joint Learning from Longitudinal and Non-Longitudinal Clinical Data
 
 
 -----------
@@ -50,7 +56,7 @@ Complete list of transformers developed for healthcare
 - Systematic Review of Hybrid Vision Transformer Architectures for Radiological Image Analysis
 - MR Image Harmonization with Transformer
 - High Resolution Multi-delay Arterial Spin Labeling with Transformer based Denoising for Pediatric Perfusion MRI
--  
+- Transformer based deep learning denoising of single and multi-delay 3D Arterial Spin Labeling
 -    
 ------------
 
@@ -243,6 +249,7 @@ Complete list of transformers developed for healthcare
     - https://huggingface.co/datasets
     - https://data.mendeley.com/datasets/29ntw7sh4r/5
     - https://github.com/almaan/her2st
+- Spatially Aware Transformer Networks for Contextual Prediction of Diabetic Nephropathy Progression from Whole Slide Images
     - 
 -------------------
 
@@ -256,4 +263,13 @@ Complete list of transformers developed for healthcare
 # Sleep Medicine
 
 - A foundational transformer leveraging full night, multichannel sleep study data accurately classifies sleep stages
+- A CNN-Transformer Deep Learning Model for Real-time Sleep Stage Classification in an Energy-Constrained Wireless Device
+
+
+-----------------
+
+# Licensing Exams
+
+- Performance of Generative Pretrained Transformer on the National Medical Licensing Examination in Japan
+    - https://github.com/yudaitanaka1026/ChatGPT_NMLE_Japan
 - 
