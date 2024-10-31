@@ -89,6 +89,15 @@ Complete list of transformers developed for healthcare
     - https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal
     - 
 
+## Functional Network connectivity
+- Gray Matters: An Efficient Vision Transformer GAN Framework for Predicting Functional Network Connectivity Biomarkers from Brain Structure
+- https://www.biorxiv.org/content/10.1101/2024.01.11.575307v1
+- 
+
+# NEURON
+- Short-term Hebbian learning can implement transformer-like attention
+- https://www.biorxiv.org/content/10.1101/2023.05.31.543109v1
+
 -------
 
 # Cardiology
@@ -103,14 +112,26 @@ Complete list of transformers developed for healthcare
 ## CVD Risk
 - Refined selection of individuals for preventive cardiovascular disease treatment with a Transformer-based risk model
 
-
+## ECHO
+- Detecting Incipient Heart Failure in Asymptomatic Patients with Normal Ejection Fraction and comparisons with patients with heart failure and preserved ejection fraction using TimeSformer for classifying Echocardiography videos
+- https://www.medrxiv.org/content/10.1101/2024.10.22.24315954v1
 -------
 
-# Gastroenterology
+# GASTROENTEROLOGY
+
 - LOMIA-T: A Transformer-based LOngitudinal Medical Image Analysis framework for predicting treatment response of esophageal cancer
 - 
 
----------
+-----------
+
+# MICROBIOLOGY
+
+- WormSwin: Instance segmentation of C. elegans using vision transformer
+    - https://www.biorxiv.org/content/10.1101/2023.04.10.536324v1
+- 
+
+-------------
+
 # GENOMICS
 
 ## Genetic Diagnosis
@@ -193,11 +214,28 @@ Complete list of transformers developed for healthcare
     - https://github.com/Genentech/TraCSED/
 - scGFT: single-cell RNA-seq data augmentation using generative Fourier transformer
     - https://github.com/Sanofi-Public/PMCB-scGFT
+- PathFinder: a novel graph transformer model to infer multi-cell intra- and inter-cellular signaling pathways and communications
+    - https://www.biorxiv.org/content/10.1101/2024.01.13.575534v1
+- 
 
+## phylogenetic inference
+-  TreeFormer: A transformer-based tree rearrangement operation for phylogenetic reconstruction
+-  https://www.biorxiv.org/content/10.1101/2024.10.28.620561v1
 
 --------------------------------
 
-# Molecule
+# IMMUNOLOGY
+
+## Antibody
+- ABTrans: A Transformer-based model for predicting interaction between anti-Aß antibodies and peptides
+- https://www.biorxiv.org/content/10.1101/2023.10.09.561503v1
+
+##
+- TULIP — a Transformer based Unsupervised Language model for Interacting Peptides and T-cell receptors that generalizes to unseen epitopes
+- https://www.biorxiv.org/content/10.1101/2023.07.19.549669v2
+
+---------------------------------
+# MOLECULE
 
 ## Molecular BioPhysics
 - Predicting Future Kinetic States of Physicochemical Systems Using Generative Pre-trained Transformer
@@ -218,6 +256,9 @@ Complete list of transformers developed for healthcare
 - GCRTcall: a Transformer based basecaller for nanopore RNA sequencing enhanced by gated convolution and relative position embedding via joint loss training
   - https://github.com/liqingwen98/GCRTcall
 
+- Enhancing Ligand-Based Virtual Screening with 3D Shape Similarity via a Distance-Aware Transformer Model
+- https://www.biorxiv.org/content/10.1101/2023.11.17.567506v1
+
 ---------------
 
 # cell
@@ -232,13 +273,40 @@ Complete list of transformers developed for healthcare
 
 -----------
 
-# Protein
+# PHARMACOLOGY
+
+- A multi-scale feature fusion model based on biological knowledge graph and transformer-encoder for drug-drug interaction prediction
+    - https://www.biorxiv.org/content/10.1101/2024.01.12.575305v1
+- 
+
+-----------
+
+# PROTEIN
+
 - Protein Set Transformer: A protein-based genome language model to power high diversity viromics
     - https://github.com/AnantharamanLab/protein_set_transformer
  
 - Exploring the conformational ensembles of protein-protein complex with transformer-based generative model
     - https://github.com/AspirinCode/AlphaPPImd
     - https://github.com/bjornwallner/DockQ
+- De Novo Atomic Protein Structure Modeling for Cryo-EM  Density Maps Using 3D Transformer and Hidden Markov  Model
+    - https://www.biorxiv.org/content/10.1101/2024.01.02.573943v1
+- CryoTransformer: A Transformer Model for Picking Protein Particles from Cryo-EM Micrographs
+    - https://www.biorxiv.org/content/10.1101/2023.10.19.563155v1
+- 
+ 
+## Drug Target interaction 
+- Drug-target interaction prediction using a multi-modal transformer network demonstrates high generalizability to unseen proteins
+    - https://www.biorxiv.org/content/10.1101/2023.08.21.554147v2
+- 
+ 
+## Metal Ion Binding
+-  MetaLLM: Residue-wise Metal ion Prediction Using Deep Transformer Model
+    - https://www.biorxiv.org/content/10.1101/2023.03.20.533488v1
+
+## Protein localization
+- CELL-E 2: Translating Proteins to Pictures and Back with a Bidirectional Text-to-Image Transformer
+- https://bohuanglab.github.io/CELL-E_2/
 
 ---------------
 
@@ -268,8 +336,16 @@ Complete list of transformers developed for healthcare
 
 -----------------
 
+# ZOOLOGY
+
+##  MoveFormer: a Transformer-based  model for step-selection animal  movement modelling
+- https://www.biorxiv.org/content/10.1101/2023.03.05.531080v5
+
+-----------------
+
 # Licensing Exams
 
 - Performance of Generative Pretrained Transformer on the National Medical Licensing Examination in Japan
     - https://github.com/yudaitanaka1026/ChatGPT_NMLE_Japan
-- 
+- Fine-tuned large language models for answering questions about full-text biomedical research studies
+    - https://www.medrxiv.org/content/10.1101/2024.10.28.24316263v1
