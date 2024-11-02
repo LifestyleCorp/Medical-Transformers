@@ -326,6 +326,13 @@ Complete list of transformers developed for healthcare
 - Examining the Accuracy and Reproducibility of Responses to Nutrition Questions Related to Inflammatory Bowel Disease by Generative Pre-trained Transformer-4 (GPT-4)
 - 
 
+--------------------
+
+# Lifestyle Medicine
+
+- LSD600: the first corpus of biomedical abstracts  annotated with lifestyle–disease relations
+- https://www.medrxiv.org/content/10.1101/2024.08.30.24312862v1.full.pdf
+
 -------------------
 
 # Sleep Medicine
