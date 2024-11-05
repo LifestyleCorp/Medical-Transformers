@@ -145,6 +145,7 @@ Complete list of transformers developed for healthcare
     - https://github.com/shiquan/bcfanno
     - https://github.com/meta-llama/llama3/blob/main/MODEL_CARD.md
     - https://ftp.ncbi.nih.gov/repository/OMIM/ARCHIVE/
+- MethylGPT: A foundation model for the DNA methylome
 
 ## Scaling law of genomics
 - https://github.com/wds-seu/Scaling-Laws-of-Genomic
