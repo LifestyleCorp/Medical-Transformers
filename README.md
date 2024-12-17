@@ -7,6 +7,7 @@ Complete list of transformers developed for healthcare
 
 # ALL CAUSE MORTALITY PREDICTION
 - Zero Shot Health Trajectory Prediction Using Transformer
+- Towards modeling evolving longitudinal health trajectories with a transformer-based deep learning model
 
 ------------------
 # Aging
@@ -56,6 +57,13 @@ Complete list of transformers developed for healthcare
 
 -----------
 
+# Dermatology
+- Enhancing Skin Cancer Diagnosis (SCD) Using Late Discrete Wavelet Transform (DWT) and New Swarm-Based Optimizers
+- TAFM-Net: A Novel Approach to Skin Lesion Segmentation Using Transformer Attention and Focal Modulation
+- 
+
+------------
+
 
 # Radiology
 
@@ -63,7 +71,10 @@ Complete list of transformers developed for healthcare
 - MR Image Harmonization with Transformer
 - High Resolution Multi-delay Arterial Spin Labeling with Transformer based Denoising for Pediatric Perfusion MRI
 - Transformer based deep learning denoising of single and multi-delay 3D Arterial Spin Labeling
--    
+- Medical Slice Transformer: Improved Diagnosis and Explainability on 3D Medical Images with DINOv2
+- HResFormer: Hybrid Residual Transformer for Volumetric Medical Image Segmentation
+
+
 ------------
 
 # Neurology
@@ -74,6 +85,7 @@ Complete list of transformers developed for healthcare
 
 ## Neuromorphicity
 - Biologically Realistic Computational Primitives of Neocortex Implemented on Neuromorphic Hardware Improve Vision Transformer Performance
+- 
 
 
 ## Neural Imaging
@@ -88,6 +100,7 @@ Complete list of transformers developed for healthcare
     - https://github.com/FinnBehrendt/Supervised-Anomaly-Detection-with-Diffusion-Models
     - https://github.com/FinnBehrendt/patched-Diffusion-Models-UAD
     - https://github.com/FinnBehrendt/Conditioned-Diffusion-Models-UAD
+- Swin fMRI Transformer Predicts Early Neurodevelopmental Outcomes from Neonatal fMRI
 
 ## Neural Diagnosis
 - BrainGT: Multifunctional Brain Graph Transformer for Brain Disorder Diagnosis
@@ -117,16 +130,26 @@ Complete list of transformers developed for healthcare
 
 ## CVD Risk
 - Refined selection of individuals for preventive cardiovascular disease treatment with a Transformer-based risk model
+- Optimization of Transformer heart disease prediction model based on particle swarm optimization algorithm
 
 ## ECHO
 - Detecting Incipient Heart Failure in Asymptomatic Patients with Normal Ejection Fraction and comparisons with patients with heart failure and preserved ejection fraction using TimeSformer for classifying Echocardiography videos
 - https://www.medrxiv.org/content/10.1101/2024.10.22.24315954v1
+- Echocardiography to Cardiac MRI View Transformation for Real-Time Blind Restoration
+
+
 -------
+
+# Mental Health
+- A Comparative Analysis of Transformer and LSTM Models for Detecting Suicidal Ideation on Reddit
+
+--------
+
 
 # GASTROENTEROLOGY
 
 - LOMIA-T: A Transformer-based LOngitudinal Medical Image Analysis framework for predicting treatment response of esophageal cancer
-- 
+- Ordinal Multiple-instance Learning for Ulcerative Colitis Severity Estimation with Selective Aggregated Transformer
 
 -----------
 
@@ -165,6 +188,7 @@ Complete list of transformers developed for healthcare
 - The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics
   - https://huggingface.co/InstaDeepAI
   - https://github.com/instadeepai/nucleotide-transformer
+- A Review on the Applications of Transformer-based language models for Nucleotide Sequence Analysis
 
 ## DNA Methylation
 - MethylBERT: A Transformer-based model for read-level DNA methylation pattern identification and tumour deconvolution
@@ -228,6 +252,7 @@ Complete list of transformers developed for healthcare
 ## phylogenetic inference
 -  TreeFormer: A transformer-based tree rearrangement operation for phylogenetic reconstruction
 -  https://www.biorxiv.org/content/10.1101/2024.10.28.620561v1
+-  ProtGO: A Transformer based Fusion Model for accurately predicting Gene Ontology (GO) Terms from full scale Protein Sequences
 
 --------------------------------
 
@@ -305,7 +330,7 @@ Complete list of transformers developed for healthcare
 ## Drug Target interaction 
 - Drug-target interaction prediction using a multi-modal transformer network demonstrates high generalizability to unseen proteins
     - https://www.biorxiv.org/content/10.1101/2023.08.21.554147v2
-- 
+- KITE-DDI: A Knowledge graph Integrated Transformer Model for accurately predicting Drug-Drug Interaction Events from Drug SMILES and Biomedical Knowledge Graph
  
 ## Metal Ion Binding
 -  MetaLLM: Residue-wise Metal ion Prediction Using Deep Transformer Model
@@ -325,6 +350,7 @@ Complete list of transformers developed for healthcare
     - https://data.mendeley.com/datasets/29ntw7sh4r/5
     - https://github.com/almaan/her2st
 - Spatially Aware Transformer Networks for Contextual Prediction of Diabetic Nephropathy Progression from Whole Slide Images
+- PATHS: A Hierarchical Transformer for Efficient Whole Slide Image Analysis
     - 
 -------------------
 
