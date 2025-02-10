@@ -8,6 +8,7 @@ Complete list of transformers developed for healthcare
 # ALL CAUSE MORTALITY PREDICTION
 - Zero Shot Health Trajectory Prediction Using Transformer
 - Towards modeling evolving longitudinal health trajectories with a transformer-based deep learning model
+- A Transformer-Based Approach to Survival Outcome Prediction
 
 ------------------
 # Aging
@@ -186,7 +187,9 @@ Complete list of transformers developed for healthcare
   - https://github.com/YueWangMathbio/WENDY
 - GRNFomer: Accurate Gene Regulatory Network Inference Using Graph Transformer
     - https://github.com/BioinfoMachineLearning/GRNformer
-- 
+- Dissecting dynamic gene regulatory network using transformer-based temporal causality analysis
+    - https://github.com/prsigma/TRIGON
+    - https://github.com/saeyslab/nichenetr
 
 ## Nucleotide
 - The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics
@@ -317,6 +320,10 @@ Complete list of transformers developed for healthcare
   - https://gitlab.com/dunloplab/Cell-HOTA
   - https://gitlab.com/dunloplab/Cell-TRACTR
 
+- Hierarchical Interpretation of Out-of-Distribution Cells Using Bottlenecked Transformer
+    - https://github.com/QifeiWang4Bio/CellMemory
+
+
 -----------
 
 # PHARMACOLOGY
@@ -365,7 +372,17 @@ Complete list of transformers developed for healthcare
     - https://github.com/almaan/her2st
 - Spatially Aware Transformer Networks for Contextual Prediction of Diabetic Nephropathy Progression from Whole Slide Images
 - PATHS: A Hierarchical Transformer for Efficient Whole Slide Image Analysis
-    - 
+- Assessing Genotype-Phenotype Correlations with Deep Learning in Colorectal Cancer: A Multi-Centric Study
+    https://github.com/KatherLab
+    https://github.com/KatherLab/preprocessing-ng
+    https://github.com/KatherLab/marugoto
+    https://github.com/LocalToasty/barspoon-transformer/
+    https://github.com/gustavmarco/barspoon-transformer/releases/tag/gustav2024
+    https://portal.gdc.cancer.gov/
+    https://www.cbioportal.org/
+    https://portal.gdc.cancer.gov/
+    https://www.cbioportal.org/
+- 
 -------------------
 
 # Nutrition
@@ -396,6 +413,11 @@ Complete list of transformers developed for healthcare
 - https://www.biorxiv.org/content/10.1101/2023.03.05.531080v5
 
 ## Precious3GPT: Multimodal Multi-Species Multi-Omics Multi-Tissue Transformer for Aging Research and Drug Discovery
+
+## Learning the Language of Phylogeny with MSA Transformer
+- https://github.com/Cassie818/MsaPhylo
+
+
 
 
 -----------------
