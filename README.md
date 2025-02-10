@@ -140,8 +140,9 @@ Complete list of transformers developed for healthcare
 
 -------
 
-# Mental Health
+# Mental Health and Psychology
 - A Comparative Analysis of Transformer and LSTM Models for Detecting Suicidal Ideation on Reddit
+- Deficient Executive Control in Transformer Attention
 
 --------
 
@@ -183,6 +184,9 @@ Complete list of transformers developed for healthcare
   - https://github.com/YueWangMathbio/TRENDY
 - WENDY: Covariance Dynamics Based Gene Regulatory Network Inference
   - https://github.com/YueWangMathbio/WENDY
+- GRNFomer: Accurate Gene Regulatory Network Inference Using Graph Transformer
+    - https://github.com/BioinfoMachineLearning/GRNformer
+- 
 
 ## Nucleotide
 - The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics
@@ -208,6 +212,8 @@ Complete list of transformers developed for healthcare
     - https://drive.google.com/drive/folders/1gb2IqO3NdSMbydKMLGZBFAbsbKhgm0i8
     - https://drive.google.com/drive/folders/1DLXtYGDVyxxBN3U5mMzxf-QMe1-Ik0dx
     - https://drive.google.com/file/d/1x7vSy7BTISx3K0su6FhdHLTmv1LPgH1B/view
+- dnaSORA - A Unified Diffusion Transformer for DNA point clouds
+    - https://github.com/ecotoneservice/dnaSORA
 
 ## joint prediction in genomics
 - DeepVul: A Multi-Task Transformer Model for Joint Prediction of Gene Essentiality and Drug Response
@@ -236,6 +242,10 @@ Complete list of transformers developed for healthcare
 - Advancing microRNA Target Site Prediction with Transformer and Base-Pairing Patterns
     - https://github.com/biyueeee/Mimosa
     - https://monash.bioweb.cloud.edu.au/Mimosa/
+- Melchior: A Hybrid Mamba-Transformer RNA Basecaller
+    - https://github.com/elonlit/melchior
+    - https://wandb.ai/julian-q/melchior?nw=nwuserjulianq
+    - https://huggingface.co/elonlit/Melchior
  
 ## Mass Spectrometry
 - A transformer model for de novo sequencing of data-independent acquisition mass spectrometry data
@@ -265,6 +275,10 @@ Complete list of transformers developed for healthcare
 ##
 - TULIP — a Transformer based Unsupervised Language model for Interacting Peptides and T-cell receptors that generalizes to unseen epitopes
 - https://www.biorxiv.org/content/10.1101/2023.07.19.549669v2
+
+## HLA
+- TransHLA: A Hybrid Transformer Model for HLA-Presented Epitope Detection
+- https://github.com/SkywalkerLuke/TransHLA
 
 ---------------------------------
 # MOLECULE
